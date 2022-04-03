@@ -14,7 +14,7 @@ abstract class parent2{
 }
 
 //Creating a child class because we can't access the methods and the variables of 
-//an abstract class untill and unless we make a chils class.
+//an abstract class untill and unless we make a child class.
 
 class child2 extends parent2{
 	@Override
@@ -30,10 +30,8 @@ public class Main {
 	}
 }
 
-
 /*
 OUTPUT
-Danger or below average
-
-this is a simple implemtiotion of class and objects
+Hello brother
+Nameste bol rahe h.
 */
