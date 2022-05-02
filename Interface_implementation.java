@@ -1,3 +1,13 @@
+// it is a blueprint of a class.it containes static constants and abstract methods.
+/*
+used to achieve abstraction and multiple inheritance.
+reprsent Is-A relationship
+Declration
+interface <interface name>{
+	your code here.
+}
+*/
+
 interface geometry{
 	float pi = 3.14f;
 	public void shape_area();
